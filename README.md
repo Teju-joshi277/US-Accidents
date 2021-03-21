@@ -1,7 +1,6 @@
 # US-Accidents
 US-Accidents can be used for numerous applications such as studying accident hotspot locations, casualty analysis and extracting cause and effect rules to predict accidents, studying the impact of precipitation or other environmental stimuli on accident occurrence.
 
-Attribute Overview:
 #	Attribute	Description
 1) ID: This is a unique identifier of the accident record.
 2) Severity:	Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay).
